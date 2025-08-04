@@ -1,1 +1,1 @@
-sdfaszdf
+22222"Hello team, let's start collaborating with Git!" > hello.txt
